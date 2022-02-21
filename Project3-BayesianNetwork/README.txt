@@ -1,7 +1,3 @@
-Name               NetId
-Jiecheng Gu      jgu13
-Yuchi Chen       ychen306
-
 BayesianNetwork.py: Class of Bayesian Network
 ExactInference.py: Functions of generate exact probability of Bayesian Network
 ApproximateInference.py: Class of sample, including rejection sampling and gibbs sampling methods
