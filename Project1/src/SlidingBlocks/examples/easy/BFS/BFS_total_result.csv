@@ -1,0 +1,11 @@
+file,running_time(s),iseffective
+3x3_1,0.001001,True
+3x3_10,0.000997,True
+3x3_2,0.000000,True
+3x3_3,0.001001,True
+3x3_4,0.106103,True
+3x3_5,0.000000,True
+3x3_6,0.000998,True
+3x3_7,0.000000,True
+3x3_8,0.099858,True
+3x3_9,0.001029,True

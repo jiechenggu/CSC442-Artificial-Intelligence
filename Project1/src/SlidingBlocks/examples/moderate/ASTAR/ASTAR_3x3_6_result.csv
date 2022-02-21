@@ -1,0 +1,20 @@
+6 3 5
+2 1 8
+7 4 0
+UP
+LEFT
+LEFT
+UP
+RIGHT
+DOWN
+RIGHT
+UP
+LEFT
+DOWN
+DOWN
+LEFT
+UP
+UP
+It took 14 steps to reach the goal state
+Running time is 0.003989s
+A puzzle effectively solved
