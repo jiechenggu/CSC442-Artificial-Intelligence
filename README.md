@@ -1,6 +1,6 @@
 # AI Projects
 
-- Project 1:
+- Project 1: Sliding Blocks - Search algorithms
 
 - Project 2:
 
