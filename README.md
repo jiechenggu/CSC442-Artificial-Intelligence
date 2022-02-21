@@ -4,4 +4,4 @@
 
 - Project 2:
 
-- Project 3: Bayesian Network
+- Project 3: Bayesian Network - Sampling algorithms
